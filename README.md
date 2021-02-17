@@ -6,7 +6,7 @@ My name is Giulia Brião, and I am from Brazil 🇧🇷 :octocat:
 
 **I am in a career transition**: from the environmental area, that I graduated, to the technology area. Both areas may seem totally different but they can -and should- strengthen bonds on how one would help another with innovation and improvements for the society.
 
-I found myself on the tech area because of the oportunnity I grabbed with the Resilia course of Full Stack Dev in 6 months, the perfect time to start my carrer, learn the main skills that the job market asks and have the ways to move on with my own legs.
+I discovered myself in the technology area due to the opportunity I found with the **Full Stack Dev Resilia course in 6 months**, the perfect chance to start my career, because now I can learn the main skills that the job market requires and I have open paths to follow ahead with my own legs.
 
 More about me:
 
