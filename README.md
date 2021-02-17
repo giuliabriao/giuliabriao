@@ -4,7 +4,7 @@
 
 My name is Giulia Brião, and I am from Brazil 🇧🇷 :octocat: 
 
-I am in a career transition: from the environmental area, that I graduated, to the technology area. Both areas may seem totally different but they can -and should- strengthen bonds on how one would help another with innovation and improvements for the society.
+**I am in a career transition**: from the environmental area, that I graduated, to the technology area. Both areas may seem totally different but they can -and should- strengthen bonds on how one would help another with innovation and improvements for the society.
 
 I found myself on the tech area because of the oportunnity I grabbed with the Resilia course of Full Stack Dev in 6 months, the perfect time to start my carrer, learn the main skills that the job market asks and have the ways to move on with my own legs.
 
@@ -12,7 +12,7 @@ More about me:
 
 - 🌱 I’m currently learning JavaScript, Bootstrap, Rest APIs and Agile Methodologies;
 - :raising_hand: In search of a job opportunity;
-- ⚡ Fun fact: I'm 22, never had a cat, moved to São Paulo after my whole life living in Rio and my favorite color is red.
+- ⚡ **Fun fact**: I'm 22, never had a cat, moved to São Paulo after my whole life living in Rio and my favorite color is red. *(I'll be updating this from time to time cuz I love fun facts :satisfied:)*
 
 ## Follow me
 
