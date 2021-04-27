@@ -10,13 +10,13 @@ I discovered myself in the technology area due to the opportunity I found with t
 
 More about me:
 
-- 🌱 I’m currently learning JavaScript, Bootstrap, Rest APIs and Agile Methodologies;
+- 🌱 I’m currently learning NodeJS, React, JavaScript, Rest APIs and Agile Methodologies;
 - :raising_hand: In search of a job opportunity;
 - ⚡ **Fun fact**: I'm 22, never had a cat, moved to São Paulo after my whole life living in Rio and my favorite color is red. *(I'll be updating this from time to time cuz I love fun facts :satisfied:)*
 
 ## Follow me
 
-[![Linkedin: GiuliaBriao](https://img.shields.io/badge/-GiuliaBrião-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giuliabriao/)](https://www.linkedin.com/in/giuliabriao/) [![GitHub AlineBastos](https://img.shields.io/github/followers/giuliabriao?label=follow&style=social)](https://github.com/giuliabriao)
+[![Linkedin: GiuliaBriao](https://img.shields.io/badge/-GiuliaBrião-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giuliabriao/)](https://www.linkedin.com/in/giuliabriao/) [![GitHub GiuliaBriao](https://img.shields.io/github/followers/giuliabriao?label=follow&style=social)](https://github.com/giuliabriao)
 
 ## Tech Skills
 
