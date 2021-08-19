@@ -12,7 +12,7 @@ More about me:
 
 - 🌱 I’m currently learning NodeJS, React, JavaScript, Rest APIs and Agile Methodologies;
 - :raising_hand: In search of a job opportunity;
-- ⚡ **Fun fact**: I'm 23, 7 is my lucky number and I've worked in a Junior Company.
+- ⚡ **Fun fact**: I'm 23, I've worked in a Junior Company and 7 is my lucky number.
 
 ## Follow me
 
