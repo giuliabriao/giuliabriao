@@ -12,7 +12,7 @@ More about me:
 
 - 🌱 I’m currently learning NodeJS, React, JavaScript, Rest APIs and Agile Methodologies;
 - :raising_hand: In search of a job opportunity;
-- ⚡ **Fun fact**: I'm 22, never had a cat, moved to São Paulo after my whole life living in Rio and my favorite color is red. *(I'll be updating this from time to time cuz I love fun facts :satisfied:)*
+- ⚡ **Fun fact**: I'm 23, 7 is my lucky number and I've worked in a Junior Company.
 
 ## Follow me
 
