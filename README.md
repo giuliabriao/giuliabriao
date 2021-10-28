@@ -11,7 +11,7 @@ I discovered myself in the technology area due to the opportunity I found with t
 More about me:
 
 - 🌱 I’m currently learning NodeJS, React, JavaScript, Rest APIs and Agile Methodologies;
-- :raising_hand: In search of a job opportunity;
+- :raising_hand: Currently working @ Stone Co;
 - ⚡ **Fun fact**: I'm 23, I've worked in a Junior Company and 7 is my lucky number.
 
 ## Follow me
