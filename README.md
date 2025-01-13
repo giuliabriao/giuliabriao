@@ -10,9 +10,9 @@ I discovered myself in the technology area due to the opportunity I found with t
 
 More about me:
 
-- 🌱 I’m currently learning ReactJS, NextJs, TypeScript, Rest APIs and Agile Methodologies;
-- :raising_hand: Currently working @ Stone Co;
-- ⚡ **Fun fact**: I'm 24, I've worked in a Junior Company and 7 is my lucky number.
+- 🌱 I’m currently learning Clojure;
+- :raising_hand: Currently working @ Nubank;
+- ⚡ **Fun fact**: I'm 26, I've worked in a Junior Company and 7 is my lucky number.
 
 ## Follow me
 
