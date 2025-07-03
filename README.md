@@ -2,9 +2,9 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=giuliabriao.giuliabriao)
 
-My name is Giulia Brião, and I am from Brazil 🇧🇷 :octocat: 
+My name is Giulia Brião, and I am from Rio de Janeiro, Brasil 🇧🇷 :octocat: 
 
-- 🌱 I’m currently learning Clojure, Datomic and Kafka;
+- 🌱 I’m currently learning Clojure, Flutter, Datomic and Kafka;
 - :raising_hand: Currently working @ Nubank;
 - ⚡ **Fun fact**: I'm 26, I've worked in a Junior Company and 7 is my lucky number.
 
